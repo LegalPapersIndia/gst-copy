@@ -149,7 +149,7 @@ export default function MainFooter() {
           <p className="text-xs text-slate-500">
             Copyright © 2026 Registration Portal | All Rights Reserved | 
             Website Design, Developed &amp; Google Promotion by{" "}
-            <span className="text-slate-300 font-medium">EASQUES</span>.
+            <span className="text-slate-300 font-medium">EASRISE LEGALPAPERS MANAGEMENT (OPC) PRIVATE LIMITED.</span>.
           </p>
         </div>
       </div>
