@@ -57,7 +57,7 @@ export default function InstructionsSidebar() {
           </li>
         </ol>
 
-        <div className="mt-8 flex gap-3 rounded-lg border border-orange-100 bg-orange-50 p-4 text-xs sm:text-sm text-orange-900">
+        {/* <div className="mt-8 flex gap-3 rounded-lg border border-orange-100 bg-orange-50 p-4 text-xs sm:text-sm text-orange-900">
           <FaInfoCircle className="mt-0.5 shrink-0 text-orange-600" />
           <div>
             <p>
@@ -69,7 +69,7 @@ export default function InstructionsSidebar() {
               and other official documents to avoid rejection or delay in GST registration.
             </p>
           </div>
-        </div>
+        </div> */}
       </div>
     </aside>
   );

@@ -2,10 +2,10 @@
 import { Link } from 'react-router-dom';
 import { FaEnvelope, FaPhoneAlt } from 'react-icons/fa';
 import Logo from "../../Assest/Logo.png";
-import Swach from "../../Assest/swach.png";
+import Swach from "../../Assest/gst.png";
 
 const NOTICE_TEXT =
-  "THIS IS A PRIVATE CONSULTANCY PORTAL FOR GST REGISTRATION. PORTAL FEES ARE CONSULTANCY CHARGES AND NOT GOVERNMENT FEES...";
+  "NEW GST REGISTRATION, MODIFICATION AND UPDATE SUPPORT FOR PROPRIETORS, PARTNERSHIP FIRMS AND COMPANIES. THIS IS A PRIVATE CONSULTANCY PORTAL. PORTAL FEES ARE CONSULTANCY CHARGES AND NOT GOVERNMENT FEES.";
 
 export default function HeaderTop({ handleScroll }) {
   return (

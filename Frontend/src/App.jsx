@@ -65,11 +65,11 @@ function PrivateConsultancyMarquee() {
         <div className="marquee-container relative flex-1 overflow-hidden">
           <div className="marquee inline-flex whitespace-nowrap text-xs sm:text-sm font-medium tracking-wide">
             <span className="mx-12">
-              This is a private consultancy self-registration portal Owned By <b>EASQUES</b> for Registration. 
+              This is a private consultancy self-registration portal Owned By <b>EASRISE LEGALPAPERS MANAGEMENT PRIVATE LIMITED</b> for Registration. 
               Portal fees are consultancy in nature.
             </span>
             <span className="mx-12">
-              This is a private consultancy self-registration portal Owned By <b>EASQUES</b> for  Registration. 
+              This is a private consultancy self-registration portal Owned By <b>EASRISE LEGALPAPERS MANAGEMENT PRIVATE LIMITED</b> for  Registration. 
               Portal fees are consultancy in nature.
             </span>
           </div>

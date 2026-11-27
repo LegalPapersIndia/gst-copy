@@ -139,13 +139,13 @@ export default function DocumentsRequiredSection() {
         </div>
 
         {/* Bottom Note */}
-        <div className="mt-12 md:mt-14 mx-auto max-w-2xl flex items-start gap-3 rounded-xl border border-orange-100 bg-orange-50 p-4 md:p-5 text-sm md:text-base text-orange-900">
+        {/* <div className="mt-12 md:mt-14 mx-auto max-w-2xl flex items-start gap-3 rounded-xl border border-orange-100 bg-orange-50 p-4 md:p-5 text-sm md:text-base text-orange-900">
           <FaInfoCircle className="mt-1 shrink-0 text-orange-600" aria-hidden="true" />
           <p>
             All documents must be clear, recent, and in the prescribed digital format. 
             Government fees and bank details may also be required during filing.
           </p>
-        </div>
+        </div> */}
       </div>
     </section>
   );
