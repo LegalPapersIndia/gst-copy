@@ -1,9 +1,9 @@
 // src/components/Sections/HeroCarousel.jsx
 
 import { useState, useEffect } from "react";
-import banner1 from "../../Assest/Banner1.webp";
-import banner2 from "../../Assest/Banner2.webp";
-import banner3 from "../../Assest/Banner3.webp";
+import banner1 from "../../Assest/Banner1.png";
+import banner2 from "../../Assest/Banner2.png";
+import banner3 from "../../Assest/Banner3.png";
 
 const slides = [
   {
